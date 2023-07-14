@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Football TV Livestream</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="ad_native">ca-app-pub-2102946423935641/2706432078</string>
+    <string name="interstitial_ad"></string>
+
+
+    <string name="applovin_inter">02525912f9efe294</string>
+    <string name="title_activity_live">Live</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="redirect_title">New App Updates</string>
+    <string name="redirect_message">This application has expired and is no longer used, press the button below to download and install the latest update of this application.</string>
+    <string name="redirect_button">Download Update Now</string>
+    <string name="redirect_error">Whoops! there is problem with the url, try again later</string>
+    <string name="content_description">TODO</string>
+</resources>

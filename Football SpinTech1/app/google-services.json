@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "707328397299",
+    "firebase_url": "https://futaa-experts-default-rtdb.firebaseio.com",
+    "project_id": "futaa-experts",
+    "storage_bucket": "futaa-experts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707328397299:android:c226b59791d25ee12ecc86",
+        "android_client_info": {
+          "package_name": "com.extreme.brikim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsn0qhqt0Lccs84WkGXb3SXNCFGHozOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707328397299:android:7e4c370b0c119a312ecc86",
+        "android_client_info": {
+          "package_name": "com.extreme.recon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsn0qhqt0Lccs84WkGXb3SXNCFGHozOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707328397299:android:4a109a4ccf4782f02ecc86",
+        "android_client_info": {
+          "package_name": "com.extreme.spinsport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsn0qhqt0Lccs84WkGXb3SXNCFGHozOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707328397299:android:a619a324b15df96e2ecc86",
+        "android_client_info": {
+          "package_name": "com.extreme.sports_expert_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsn0qhqt0Lccs84WkGXb3SXNCFGHozOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707328397299:android:57396104f87d82f12ecc86",
+        "android_client_info": {
+          "package_name": "com.extreme.sportspro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsn0qhqt0Lccs84WkGXb3SXNCFGHozOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707328397299:android:050da233a274a4542ecc86",
+        "android_client_info": {
+          "package_name": "com.extreme.victus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsn0qhqt0Lccs84WkGXb3SXNCFGHozOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707328397299:android:bfe3cedeac5cefc72ecc86",
+        "android_client_info": {
+          "package_name": "com.surefootballbettips.livestreammatches"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsn0qhqt0Lccs84WkGXb3SXNCFGHozOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707328397299-55bmcgkvsri0rs8pku9dovlee7lgi6h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

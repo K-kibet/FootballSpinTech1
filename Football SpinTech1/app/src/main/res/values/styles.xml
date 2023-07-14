@@ -1,0 +1,24 @@
+<resources>
+
+    <style name="Widget.Theme.SportsExpert.ActionBar.Fullscreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="Widget.Theme.SportsExpert.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <style name="MaterialButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="cornerRadius">@dimen/corner_radius</item>
+        <item name="backgroundTint">@color/colorPrimary</item>
+    </style>
+
+
+    <style name="ShapeAppearance.Image.Rounded" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/corner_radius</item>
+    </style>
+</resources>
